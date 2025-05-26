@@ -5,6 +5,7 @@ Welcome to the **Advanced Fun Ball Puzzle** — a fun, fast-paced game built usi
 
 
 ---
+![generated-image](https://github.com/user-attachments/assets/a45dbdbf-a39f-4cc7-9a25-5bfb2f861e5b)
 
 ## 🚀 Features
 
